@@ -1,4 +1,4 @@
-Python Moduel Skeleton
+Python Module Skeleton
 ======================
 
 This represents a sample Python module skeleton used to help assist in making Python projects more easily.
