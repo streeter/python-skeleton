@@ -52,7 +52,7 @@ setup(
     packages=packages,
     package_data=package_data,
     install_requires=requires,
-    author='Chris Streeter',
+    author=skeleton.__author__,
     author_email='python@chrisstreeter.com',
     url='https://github.com/streeter/python-skeleton',
     license='MIT',
